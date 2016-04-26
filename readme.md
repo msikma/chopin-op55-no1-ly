@@ -30,8 +30,8 @@ Notes
 Copyright
 ---------
 
-(C) 2016, Michiel Sikma <michiel@sikma.org>
+© 2016, Michiel Sikma <michiel@sikma.org>
 
 Licensed under CC BY-SA 4.0.
 
-Original work by F. Chopin, copyright expired.
+Original work by Frédéric Chopin, published in 1844—copyright expired.
